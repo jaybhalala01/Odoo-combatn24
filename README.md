@@ -1,43 +1,43 @@
-# WorkSpacePro
+# SharedHaven
 
 ![SharedHaven Logo](https://via.placeholder.com/150) <!-- Replace with your logo URL -->
 
-WorkSpacePro is an all-in-one solution for managing shared workspaces efficiently. Perfect for coworking spaces, shared offices, or community hubs, WorkSpacePro simplifies bookings, resource management, payments, and more..
+SharedHaven is a comprehensive platform designed to streamline the management of shared workspaces. Whether you're running a coworking space, a shared office, or a community hub, SharedHaven helps you manage bookings, resources, payments, and more with ease.
 
-## Table of Contents  
+## Table of Contents
 
 - [Features](#features)
-- [Live Demo](#live_demo)
+- [Demo](#demo)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage Instruction](#usage_instruction)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact Us](#contact_us)
+- [Contact](#contact)
 
 ## Features
 
-### Secure User Authentication
-- Robust registration and login system..
-- Profile management for tracking bookings, preferences, and usage history.
+### User Authentication and Profiles
+- Secure registration and login.
+- Profile management to track bookings, preferences, and usage history.
 
-### Efficient Workspace Management
-- Admin dashboard for managing workspace availability, bookings, and resources.
+### Workspace Management
+- Admin dashboard to manage workspace availability, bookings, and resources.
 - Tools for adding and updating workspace details (photos, amenities, rules).
 
-### Dynamic Booking System
-- Real-time reservation system for workspaces, meeting rooms, and facilities.
-- Calendar view for managing and visualizing booking schedules.
+### Booking System
+- Real-time booking system for reserving workspaces, meeting rooms, and other facilities.
+- Calendar view for managing and viewing booking schedules.
 
-### Comprehensive Resource Allocation
+### Resource Allocation
 - Inventory management for workspace resources (e.g., projectors, desks, chairs).
 - Reservation system for additional resources and equipment.
 
-### Integrated Payment Integration
+### Payment Integration
 - Secure payment gateway for processing booking fees and membership subscriptions.
 - Invoice generation and payment history tracking.
 
-## Live Demo
+## Demo
 
 Check out our [live demo](#) to see SharedHaven in action. <!-- Replace with actual demo link -->
 
@@ -50,9 +50,9 @@ Check out our [live demo](#) to see SharedHaven in action. <!-- Replace with act
 - **Payment Integration:** Razorpay
 - **Deployment:** Docker, Kubernetes
 
-## Setup Guide
+## Installation
 
-To run WorkSpacePro locally, follow  these instructions:
+To run SharedHaven locally, follow these steps:
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ To run WorkSpacePro locally, follow  these instructions:
   ```
 ### 2.  **Navigate to the project directory:**
 	
-	cd workspacepro
+	cd sharedhaven
 	
 #### **Backend Setup (Node.js and Express)**
 
